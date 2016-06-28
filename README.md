@@ -12,3 +12,4 @@ CDI and JSF Examples. Included examples:
 - Testing CDI code using CDI-Unit ([article](http://www.omnifaces-fans.org/2016/06/cdi-jsf-testing-cdi-code.html) | [example](https://github.com/AnghelLeonard/CDI-JSF/blob/master/InjectLoggerWithTest/src/test/java/tests/LoggerTest.java))
 - Use a CDI alternative as a mock implementation for a stateless session bean ([article](http://www.omnifaces-fans.org/2016/06/use-cdi-alternative-as-mock.html) | [example](https://github.com/AnghelLeonard/CDI-JSF/tree/master/AlternativesExample))
 - Using CDI alternatives priority (@Priority) ([article](http://www.omnifaces-fans.org/2016/06/cdi-jsf-using-cdi-alternatives-priority.html) | [example](https://github.com/AnghelLeonard/CDI-JSF/tree/master/PriorityAlternativeExample))
+- Beans discovery modes ([article](http://www.omnifaces-fans.org/2016/06/cdi-jsf-beans-discovery-modes.html) | [example](https://github.com/AnghelLeonard/CDI-JSF/tree/master/BeansDiscovery))
